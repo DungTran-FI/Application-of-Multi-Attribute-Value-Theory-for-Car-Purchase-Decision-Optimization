@@ -1,6 +1,7 @@
 # Data-Driven Car Purchase Optimization: An Analytical Approach Using Multi-Attribute Value Theory
 
-## The complete analysis is documented in [Application of Multi-Attribute Value Theory for Car Purchase Decision Optimization]
+### The complete analysis is documented in:
+- [Application of Multi-Attribute Value Theory for Car Purchase Decision Optimization](https://github.com/DungTran-FI/Data-Driven-Car-Purchase-Optimization-An-Analytical-Approach-Using-Multi-Attribute-Value-Theory/blob/main/Application%20of%20Multi-Attribute%20Value%20Theory%20for%20Car%20Purchase%20Decision%20Optimization.pdf)
 
 ## Description
 This project applies **Data Analytics** and **Multi-Attribute Value Theory (MAVT)** to optimize car purchasing decisions. The report provides a structured, quantitative approach to evaluating multiple car attributes, ultimately recommending the most suitable vehicle for a family based on comprehensive data analysis.
