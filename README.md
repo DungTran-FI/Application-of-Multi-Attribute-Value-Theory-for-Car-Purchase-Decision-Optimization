@@ -67,3 +67,7 @@ This project applies **Data Analytics** and **Multi-Attribute Value Theory (MAVT
 
 This project demonstrates the power of integrating data analytics with decision-making theories like MAVT to provide clear, actionable insights in complex scenarios such as car purchasing.
 
+### Disclaimer
+This project was developed as a group assignment for the "Decision Making And Behavior" course at Aalto University. While the design, implementation, and analysis aspects of the project were collaboratively completed by the team, each individual contributed to specific parts of the project.
+
+The work presented here includes contributions from all team members, and the final deliverables reflect a collective effort. When showcasing this project in a personal portfolio, it is important to acknowledge that it was a group effort. The skills demonstrated and the results achieved are representative of the collaborative work undertaken by the team as a whole.
